@@ -1,9 +1,7 @@
 Design Ideas:
-First Name 
-Last Name 
-Email
-City 
-Country 
-phone
-5 input fields
+4 input fields
+** Email
+** First Name
+** Last Name
+** Phone Number
   
